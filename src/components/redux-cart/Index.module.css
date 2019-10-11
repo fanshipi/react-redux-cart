@@ -1,0 +1,21 @@
+.title {
+    text-align: center;
+    font-size: 100px;
+    font-weight: 900;
+    background-color: #ff6969;
+    color: #fff;
+    margin: 0;
+}
+
+.title p {
+    font-size: 20px;
+}
+
+.title a {
+    color: #000;
+    text-decoration: none;
+}
+.title a:hover {
+    /* color: rgb(127, 129, 255); */
+    color:#fff;
+}
